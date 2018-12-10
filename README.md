@@ -16,7 +16,7 @@ Webotron currently has the following Features
 
 
 
-## notifon
+## Notifon
 
 Notifon is a project to notify slack users of changes to your AWS account
 
